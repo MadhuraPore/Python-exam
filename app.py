@@ -1,1 +1,1 @@
-print ("We are studying python")
+print ("We are studying")
